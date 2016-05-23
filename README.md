@@ -96,3 +96,8 @@ Or more specifically :
     '0x1200085L'
     >>> 
 
+Special thanks
+--------------
+
+- Wannes Rombouts (wapiflapi) for python3 compatible.
+
